@@ -7,3 +7,5 @@ Conceived by KJ and co-built with LJ in Spring 2026. Piloted with the BUAD 310 (
 Live demo: https://studypilot-topaz.vercel.app
 
 Tech stack: Next.js, TypeScript, Tailwind CSS, PostgreSQL (Supabase), Prisma, Claude API, deployed on Vercel.
+
+Built by KJ (idea, product, engineering, user testing) and LJ (brainstorming, engineering).
